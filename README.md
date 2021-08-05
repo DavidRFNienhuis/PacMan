@@ -4,7 +4,7 @@ This Project was a very interesting one. The objective was to create a Pacman fa
 
 Due to technical difficulties my next improvement to this page will be to add true functionality to this page.
 
-Liscense:
+License:
 
 Copyright (c) 2021 copyright David R.F. Nienhuis (MIT Coding Bootcamp)
 
