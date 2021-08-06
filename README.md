@@ -1,6 +1,6 @@
 Pacman Exercise
 
-This Project was a very interesting one. The objective was to create a Pacman factory and to have them move across the screen. The way to run this project is by clicking the “Add Pacman” button, then afterwards hit the start game button to send the Pacman moving across the screen. 
+This Project was a very interesting one. The objective was to create a Pacman factory and to have them move across the screen. The way to run this project is by clicking the Add Pacman button, then afterwards hit the start game button to send the Pacman moving across the screen. 
 
 Due to technical difficulties my next improvement to this page will be to add true functionality to this page.
 
